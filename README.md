@@ -7,8 +7,9 @@ This is a Git version control practice repository.
 These instructions will help you start using this repository.
 
 1. Clone the repository:
-git clone https://github.com/rafael-carvalho-dev/GitPracticeRepo.git 1. Go to the repository: cd GitPracticeRepo
-2. Make changes, commit, and push!
+git clone https://github.com/rafael-carvalho-dev/GitPracticeRepo.git
+2. Go to the repository: cd GitPracticeRepo
+3. Make changes, commit, and push!
 
 ## Contributing
 
