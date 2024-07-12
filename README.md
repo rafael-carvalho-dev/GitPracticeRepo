@@ -17,4 +17,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 
 ## License
 
-This project is licensed under the Open Source License.
+This project is licensed under the Open Source License. Check the license file for more info.
